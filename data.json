@@ -1,8 +1,7 @@
 {
- "generatedAt": "2026-06-10T18:39:00.406Z",
+ "generatedAt": "2026-06-10T21:13:08.358Z",
  "station": "VOBL",
- "metar": "",
- "metarError": "Error: METAR HTTP 504",
+ "metar": "METAR VOBL 102100Z 27008KT 6000 SCT012 SCT080 21/19 Q1012 NOSIG",
  "notams": [
   {
    "notamNumber": "A0879/26",
