@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-06-27T23:30:37.971Z",
+ "generatedAt": "2026-06-28T01:36:36.699Z",
  "station": "VOBL",
- "metar": "METAR VOBL 272300Z 27008KT 6000 FEW012 SCT080 22/19 Q1011 NOSIG",
+ "metar": "METAR VOBL 280130Z 24010KT 6000 SCT012 SCT080 22/19 Q1012 NOSIG",
  "notams": [
   {
    "notamNumber": "A1603/26",
@@ -221,16 +221,6 @@
    "startDate": "04/06/2026 0830",
    "endDate": "06/29/2026 1030",
    "icaoMessage": "A1187/26 NOTAMN\nQ) VOMF/QMXLC/IV/BO/A/000/999/1312N07742E005\nA) VOBL B) 2604060830 C) 2606291030\nD) MON 0830-1030\nE) TWY A AND PORTION OF TWY Q BTN TWY A1 AND TWY P1\nNOT AVBL DUE MAINT",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A1053/26",
-   "facilityDesignator": "VOBL",
-   "featureName": "International",
-   "issueDate": "03/26/2026 0923",
-   "startDate": "03/28/2026 2359",
-   "endDate": "06/27/2026 2359",
-   "icaoMessage": "A1053/26 NOTAMN\nQ) VOMF/QLXXX/IV/BO/A/000/999/1312N07742E005\nA) VOBL B) 2603282359 C) 2606272359\nE) TWY CL LGT ON TWY P BTN TWY G AND TWY H  \nSWITCHED OFF TO AVOID INADVERTENT TURN. \n\nEXER CTN",
    "traditionalMessage": ""
   }
  ]
