@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-06-29T06:39:37.869Z",
+ "generatedAt": "2026-06-29T11:34:29.229Z",
  "station": "VOBL",
- "metar": "METAR VOBL 290630Z 27014KT 9999 SCT012 SCT018 28/17 Q1012 NOSIG",
+ "metar": "METAR VOBL 291130Z 27011KT 8000 VCSH SCT010 SCT018 29/18 Q1010 NOSIG",
  "notams": [
   {
    "notamNumber": "A1603/26",
@@ -211,16 +211,6 @@
    "startDate": "03/31/2026 0000",
    "endDate": "06/29/2026 2359",
    "icaoMessage": "A1128/26 NOTAMN\nQ) VOMF/QMPXX/IV/BO/A/000/999/1312N07742E005\nA) VOBL B) 2603310000 C) 2606292359\nD) 0000-0030 1630-2359\nE) ADDN PRKG STANDS 33A AVBL FOR CODE C AND SMALLER ACFT.\nSTAND COORD 131206.07N 0774212.61E, ELEV 901.6M, PCN 1143/R/B/W/T",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A1187/26",
-   "facilityDesignator": "VOBL",
-   "featureName": "International",
-   "issueDate": "04/04/2026 0100",
-   "startDate": "04/06/2026 0830",
-   "endDate": "06/29/2026 1030",
-   "icaoMessage": "A1187/26 NOTAMN\nQ) VOMF/QMXLC/IV/BO/A/000/999/1312N07742E005\nA) VOBL B) 2604060830 C) 2606291030\nD) MON 0830-1030\nE) TWY A AND PORTION OF TWY Q BTN TWY A1 AND TWY P1\nNOT AVBL DUE MAINT",
    "traditionalMessage": ""
   }
  ]
