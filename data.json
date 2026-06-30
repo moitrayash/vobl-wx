@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-06-30T08:58:27.186Z",
+ "generatedAt": "2026-06-30T11:45:10.210Z",
  "station": "VOBL",
- "metar": "METAR VOBL 300830Z 27016KT 9999 SCT012 SCT018 27/19 Q1012 NOSIG",
+ "metar": "METAR VOBL 301130Z 27015KT 8000 SCT012 SCT018 28/18 Q1011 NOSIG",
  "notams": [
   {
    "notamNumber": "A1603/26",
@@ -191,16 +191,6 @@
    "startDate": "04/08/2026 0730",
    "endDate": "07/01/2026 2100",
    "icaoMessage": "A1188/26 NOTAMN\nQ) VOMF/QMXLC/IV/BO/A/000/999/1312N07742E005\nA) VOBL B) 2604080730 C) 2607012100\nD) WED 0730-1030 1900-2100\nE) TWY P, TWY Q, TWY G, TWY H NOT AVBL",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A2037/26",
-   "facilityDesignator": "VOBL",
-   "featureName": "International",
-   "issueDate": "06/29/2026 0601",
-   "startDate": "06/30/2026 0830",
-   "endDate": "06/30/2026 1030",
-   "icaoMessage": "A2037/26 NOTAMN\r\nQ) VOMF/QMXLC/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2606300830 C) 2606301030\r\nE) TWY A AND PORTION OF TWY Q BTN TWY A1 AND TWY P1\r\nNOT AVBL DUE MAINT",
    "traditionalMessage": ""
   }
  ]
