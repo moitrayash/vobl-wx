@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-06-30T05:51:01.683Z",
+ "generatedAt": "2026-06-30T08:58:27.186Z",
  "station": "VOBL",
- "metar": "METAR VOBL 300530Z 27016KT 9999 SCT012 SCT018 25/18 Q1014 NOSIG",
+ "metar": "METAR VOBL 300830Z 27016KT 9999 SCT012 SCT018 27/19 Q1012 NOSIG",
  "notams": [
   {
    "notamNumber": "A1603/26",
@@ -201,16 +201,6 @@
    "startDate": "06/30/2026 0830",
    "endDate": "06/30/2026 1030",
    "icaoMessage": "A2037/26 NOTAMN\r\nQ) VOMF/QMXLC/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2606300830 C) 2606301030\r\nE) TWY A AND PORTION OF TWY Q BTN TWY A1 AND TWY P1\r\nNOT AVBL DUE MAINT",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A2054/26",
-   "facilityDesignator": "VOBL",
-   "featureName": "International",
-   "issueDate": "06/30/2026 0458",
-   "startDate": "06/30/2026 0530",
-   "endDate": "06/30/2026 0800",
-   "icaoMessage": "A2054/26 NOTAMN\r\nQ) VOMF/QFDAS/I/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2606300530 C) 2606300800\r\nE) ADVANCED VISUAL DCKG GUIDANCE SYSTEM FOR ALL STANDS\r\nNOT AVBL DUE MAINT.PILOTS TO FLW MARSHALLER.",
    "traditionalMessage": ""
   }
  ]
