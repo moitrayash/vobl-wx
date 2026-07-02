@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-02T10:29:57.860Z",
+ "generatedAt": "2026-07-02T12:29:31.441Z",
  "station": "VOBL",
- "metar": "METAR VOBL 021000Z 24016KT 9999 SCT012 SCT018 29/19 Q1010 NOSIG",
+ "metar": "METAR VOBL 021200Z 25016KT 8000 SCT012 SCT018 27/18 Q1011 NOSIG",
  "notams": [
   {
    "notamNumber": "A1603/26",
@@ -211,26 +211,6 @@
    "startDate": "04/10/2026 0730",
    "endDate": "07/03/2026 0830",
    "icaoMessage": "A1183/26 NOTAMN\nQ) VOMF/QMXLC/IV/BO/A/000/999/1312N07742E005\nA) VOBL B) 2604100730 C) 2607030830\nD) FRI 0730-0830\nE) TWY B2 AND PORTION OF TWY B BTN TWY B1 AND TWY B2 NOT AVBL",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A1184/26",
-   "facilityDesignator": "VOBL",
-   "featureName": "International",
-   "issueDate": "04/03/2026 2120",
-   "startDate": "04/09/2026 0730",
-   "endDate": "07/02/2026 1030",
-   "icaoMessage": "A1184/26 NOTAMN\nQ) VOMF/QMXLC/IV/BO/A/000/999/1312N07742E005\nA) VOBL B) 2604090730 C) 2607021030\nD) THU 0730-1030\nE) TWY G, TWY H AND PORTION OF TWY P AND TWY Q BTN TWY N2 \nAND TWY H NOT AVBL DUE MAINT",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A1185/26",
-   "facilityDesignator": "VOBL",
-   "featureName": "International",
-   "issueDate": "04/03/2026 2132",
-   "startDate": "04/08/2026 0730",
-   "endDate": "07/02/2026 1030",
-   "icaoMessage": "A1185/26 NOTAMN\nQ) VOMF/QMRLC/IV/BO/A/000/999/1312N07742E005\nA) VOBL B) 2604080730 C) 2607021030\nD) WED 0730-1030 1900-2100\nTHU 0730-1030\nE) SOUTH RWY 09R/27L NOT AVBL DUE SKED MAINT",
    "traditionalMessage": ""
   }
  ]
