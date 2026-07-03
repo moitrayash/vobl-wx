@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-03T07:56:07.474Z",
+ "generatedAt": "2026-07-03T10:30:00.567Z",
  "station": "VOBL",
- "metar": "METAR VOBL 030730Z 26014KT 9999 SCT012 SCT080 26/18 Q1013 NOSIG",
+ "metar": "METAR VOBL 031000Z 25015KT 9999 SCT012 BKN080 26/19 Q1012 NOSIG",
  "notams": [
   {
    "notamNumber": "A1603/26",
@@ -201,16 +201,6 @@
    "startDate": "06/02/2026 0830",
    "endDate": "07/07/2026 1030",
    "icaoMessage": "A1769/26 NOTAMN\r\nQ) VOMF/QMXLC/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2606020830 C) 2607071030\r\nD) TUE 0830-1030\r\nE) PORTION OF TXL L1 AND L2 BTN STAND 59 TO 64 NOT AVBL.",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A1183/26",
-   "facilityDesignator": "VOBL",
-   "featureName": "International",
-   "issueDate": "04/03/2026 2111",
-   "startDate": "04/10/2026 0730",
-   "endDate": "07/03/2026 0830",
-   "icaoMessage": "A1183/26 NOTAMN\nQ) VOMF/QMXLC/IV/BO/A/000/999/1312N07742E005\nA) VOBL B) 2604100730 C) 2607030830\nD) FRI 0730-0830\nE) TWY B2 AND PORTION OF TWY B BTN TWY B1 AND TWY B2 NOT AVBL",
    "traditionalMessage": ""
   }
  ]
