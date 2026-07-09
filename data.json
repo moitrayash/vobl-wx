@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-09T11:37:14.510Z",
+ "generatedAt": "2026-07-09T14:11:34.280Z",
  "station": "VOBL",
- "metar": "METAR VOBL 091100Z 26016KT 8000 SCT012 SCT080 28/19 Q1012 NOSIG",
+ "metar": "METAR VOBL 091330Z 25011KT 6000 SCT008 SCT012 28/20 Q1012 NOSIG",
  "notams": [
   {
    "notamNumber": "A1603/26",
@@ -191,36 +191,6 @@
    "startDate": "04/22/2026 0805",
    "endDate": "07/21/2026 2359",
    "icaoMessage": "A1370/26 NOTAMR A0245/26\r\nQ) VOMF/QMPXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2604220805 C) 2607212359\r\nE) ACFT STAND MANOEUVRING GUIDANCE LIGHTS ON STAND\r\n87,89,91,93,95,97,99,101,103 AND 105 NOT AVBL.",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A2115/26",
-   "facilityDesignator": "VOBL",
-   "featureName": "International",
-   "issueDate": "07/08/2026 1230",
-   "startDate": "07/09/2026 0530",
-   "endDate": "07/09/2026 1230",
-   "icaoMessage": "A2115/26 NOTAMN\r\nQ) VOMF/QMOXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607090530 C) 2607091230\r\nE) STOP BAR LGTS TWY A1, TWY A2, TWY A4 AND\r\nTWY A11 NOT AVBL",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A2116/26",
-   "facilityDesignator": "VOBL",
-   "featureName": "International",
-   "issueDate": "07/08/2026 1241",
-   "startDate": "07/09/2026 0530",
-   "endDate": "07/09/2026 1230",
-   "icaoMessage": "A2116/26 NOTAMN\r\nQ) VOMF/QMOXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607090530 C) 2607091230\r\nE) STOP BAR LGT TWY H1, TWY H2, TWY H3,\r\nTWY H8, TWY H9, TWY 10 NOT AVBL",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A2117/26",
-   "facilityDesignator": "VOBL",
-   "featureName": "International",
-   "issueDate": "07/08/2026 1244",
-   "startDate": "07/09/2026 0530",
-   "endDate": "07/09/2026 1230",
-   "icaoMessage": "A2117/26 NOTAMN\r\nQ) VOMF/QMYXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607090530 C) 2607091230\r\nE) NO ENTRY BAR LGT RAPID EXIT TWY H4,H5,H6 AND H7 NOT AVBL",
    "traditionalMessage": ""
   }
  ]
