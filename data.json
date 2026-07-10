@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-09T22:58:40.873Z",
+ "generatedAt": "2026-07-10T00:05:32.584Z",
  "station": "VOBL",
- "metar": "METAR VOBL 092230Z 26010KT 6000 SCT008 SCT012 22/20 Q1013 NOSIG",
+ "metar": "METAR VOBL 100000Z 26006KT 6000 SCT008 SCT012 22/20 Q1014 NOSIG",
  "notams": [
   {
    "notamNumber": "A1603/26",
