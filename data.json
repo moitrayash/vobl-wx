@@ -1,7 +1,217 @@
 {
- "generatedAt": "2026-07-14T14:28:58.285Z",
+ "generatedAt": "2026-07-14T15:57:41.192Z",
  "station": "VOBL",
- "metar": "METAR VOBL 141400Z 32005KT 8000 FEW012 27/15 Q1013 NOSIG",
- "notams": [],
- "notamError": "TypeError: fetch failed"
+ "metar": "METAR VOBL 141530Z 31005KT 6000 FEW012 26/16 Q1014 NOSIG",
+ "notams": [
+  {
+   "notamNumber": "A1603/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "05/12/2026 1151",
+   "startDate": "05/13/2026 0200",
+   "endDate": "08/12/2026 1830EST",
+   "icaoMessage": "A1603/26 NOTAMN\r\nQ) VOMF/QCAXX/IV/BO/AE/000/999/1312N07742E005\r\nA) VOBL B) 2605130200 C) 2608121830EST\r\nD) 0200-1830\r\nE) BENGALURU ARR SECT OPR ON FREQ 121.250MHZ.",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "G0937/25",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "06/01/2026 0618",
+   "startDate": "09/17/2025 0743",
+   "endDate": "PERM",
+   "icaoMessage": "ORIGINAL NOTAM\r\n(G0937/25 NOTAMN\r\nQ) VOMF/QPICH/I/NBO/A/000/999/1312N07742E005\r\nA) VOBL B) 2509170743 C) PERM\r\nE) REF AIP SUP 115/2025 DATED 29 MAY 2025 REGARDING ILS Z RWY 09R\r\nCAT (ROMAN) II AND III PROC.\r\nIN TABULAR DESCRIPTION, THE ALTITUDE RESTRICTION AT BL202, IS\r\nAMENDED AS AT OR ABOVE 7000FT.\r\nAMEND AIP ACCORDINGLY.)",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A1808/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "06/04/2026 0450",
+   "startDate": "06/04/2026 0330",
+   "endDate": "PERM",
+   "icaoMessage": "A1808/26 NOTAMN\r\nQ) VOMF/QFAXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2606040330 C) PERM\r\nE) REFER EAIP AD 2 VOBL.\r\nAMEND AND REPLACE SUB PARA 3 ADVANCE VISUAL DCKG GUIDANCE\r\nSYSTEM ON STANDS OF AD 2.9(1) SFC MOV GUIDANCE AND CTL\r\nSYSTEM AND MARKINGS MENTIONED BLW.\r\nADVANCED VISUAL DCKG GUIDANCE SYSTEM INSTL ON STANDS\r\nV36,V37,V38,V39,V40,V41,V42,V43,V44,V45,V46,V47,V48,V49,V50,\r\nV51,V52,V53,V54,V55,V56,V57,V58,V59,V60,V61,V62,V63,V68,V69,\r\nV70,02,03,05,06,08,09,11,12,13,14,15,16,17,18,19,20,22,23,\r\n25,26,28,29,31,32,87,89,91,93,95,97,99,101,103,105,106,107,\r\n108,111,112,113,115,116,117,118,120,121 AND 123.\r\nACFT TO FLW ADVANCED VISUAL DCKG GUIDANCE SYSTEM FOR PRKG.",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A2173/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "07/14/2026 0608",
+   "startDate": "07/14/2026 0545",
+   "endDate": "07/16/2026 1200EST",
+   "icaoMessage": "A2173/26 NOTAMN\r\nQ) VOMF/QFMAU/IV/NBO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607140545 C) 2607161200EST\r\nE) AWOS RWY 27L BEGINNING AND RWY 27L MIDDLE U/S DUE EQPT",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A2174/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "07/14/2026 0611",
+   "startDate": "07/14/2026 0545",
+   "endDate": "07/16/2026 1200EST",
+   "icaoMessage": "A2174/26 NOTAMN\r\nQ) VOMF/QFMAU/IV/NBO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607140545 C) 2607161200EST\r\nE) AWOS RWY 09R BEGINNING AND RWY 09R MIDDLE U/S DUE EQPT",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A2071/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "07/01/2026 0636",
+   "startDate": "07/10/2026 0730",
+   "endDate": "10/02/2026 0830",
+   "icaoMessage": "A2071/26 NOTAMN\r\nQ) VOMF/QMXLC/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607100730 C) 2610020830\r\nD) FRI 0730-0830\r\nE) TWY B2 AND PORTION OF TWY B BTN TWY B1 AND TWY B2 NOT AVBL",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A2024/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "06/25/2026 1014",
+   "startDate": "06/30/2026 0000",
+   "endDate": "09/28/2026 2359",
+   "icaoMessage": "A2024/26 NOTAMN\r\nQ) VOMF/QMPXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2606300000 C) 2609282359\r\nD) 0000-0030 1630-2359\r\nE) ADDN PRKG STANDS 33A AVBL FOR CODE C AND SMALLER ACFT.\r\nSTAND COORD 131206.07N 0774212.61E, ELEV 901.6M, PCN 1143/R/B/W/T",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A2023/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "06/25/2026 1008",
+   "startDate": "06/27/2026 2359",
+   "endDate": "09/26/2026 2359",
+   "icaoMessage": "A2023/26 NOTAMN\r\nQ) VOMF/QLXXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2606272359 C) 2609262359\r\nE) TWY CL LGT ON TWY P BTN TWY G AND TWY H  \r\nSWITCHED OFF TO AVOID INADVERTENT TURN. \r\n\r\nEXER CTN",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A1802/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "06/03/2026 1147",
+   "startDate": "06/03/2026 0330",
+   "endDate": "09/03/2026 1230",
+   "icaoMessage": "A1802/26 NOTAMR A0789/26\r\nQ) VOMF/QMRXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2606030330 C) 2609031230\r\nD) 0330-1230\r\nE) HORTICULTURE WIP ON BOTH SIDES OF RWY09R/27L AND RWY09L/27R\r\nSHOULDERS AT A DIST OF 80M RCL. MEN AND MATERIALS UPTO\r\nA HGT OF 4M WILL BE AVBL",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A1803/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "06/03/2026 1148",
+   "startDate": "06/03/2026 0330",
+   "endDate": "09/03/2026 1230",
+   "icaoMessage": "A1803/26 NOTAMR A0790/26\r\nQ) VOMF/QMXXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2606030330 C) 2609031230\r\nD) 0330-1230\r\nE) HORTICULTURE WIP ON SHOULDERS OF TWY A B G H P AND Q.EXER CTN",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A1804/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "06/03/2026 1149",
+   "startDate": "06/03/2026 0330",
+   "endDate": "09/03/2026 1230",
+   "icaoMessage": "A1804/26 NOTAMR A0791/26\r\nQ) VOMF/QLYXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2606030330 C) 2609031230\r\nD) 0330-1230\r\nE) PREVENTIVE MAINT OF TWY EDGE LGT ON SHOULDER INPR ALONG \r\nTWY A A1 A2 A4 A5 A6 A7 A8 A9 A10 A11 B4 B6 K B B1 B2 B3 \r\nD R S M N P P1 Q G G1 H H1 H2 H3 H4 H5 H6 H7 H8 H9 H10",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A1805/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "06/03/2026 1150",
+   "startDate": "06/03/2026 0330",
+   "endDate": "09/03/2026 1230",
+   "icaoMessage": "A1805/26 NOTAMR A0792/26\r\nQ) VOMF/QMRXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2606030330 C) 2609031230\r\nD) 0330-1230\r\nE) PREVENTIVE MAINT OF AERONAUTICAL GND LGT WIP ON BOTH SIDES OF  \r\nRWY09R/27L AND RWY09L/27R SHOULDERS AT A DIST OF 80M RCL. \r\nMEN AND MATERIALS UPTO HGT OF 4M WILL BE AVBL",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A1717/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "05/25/2026 0601",
+   "startDate": "05/25/2026 0555",
+   "endDate": "08/26/2026 2359",
+   "icaoMessage": "A1717/26 NOTAMR A0721/26\r\nQ) VOMF/QMXXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2605250555 C) 2608262359\r\nE) INTERMEDIATE HLDG PSN LIGHTS ON TWY B1, TWY M, TWY N SHORT OF\r\nTXL C AND ON TWY N1 SHORT OF TXL N WILL BE SWITCHED ON FOR \r\nTESTING.PILOTS TO EXER CTN",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A2072/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "07/01/2026 0639",
+   "startDate": "07/08/2026 0530",
+   "endDate": "08/19/2026 1030",
+   "icaoMessage": "A2072/26 NOTAMN\r\nQ) VOMF/QMRLC/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607080530 C) 2608191030\r\nD) WED 0530-1030\r\nE) SOUTH RWY 09R/27L NOT AVBL DUE SKED MAINT",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A2073/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "07/01/2026 0646",
+   "startDate": "07/08/2026 0530",
+   "endDate": "08/19/2026 1030",
+   "icaoMessage": "A2073/26 NOTAMN\r\nQ) VOMF/QMXLC/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607080530 C) 2608191030\r\nD) WED 0530-1030\r\nE) TWY G, TWY H AND PORTION OF TWY P AND TWY Q BTN TWY N2 \r\nAND TWY H NOT AVBL DUE MAINT",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A2075/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "07/01/2026 0747",
+   "startDate": "07/07/2026 0830",
+   "endDate": "08/18/2026 1030",
+   "icaoMessage": "A2075/26 NOTAMN\r\nQ) VOMF/QMXLC/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607070830 C) 2608181030\r\nD) TUE 0830-1030\r\nE) PORTION OF TWY B BTN TWY B2 AND TWY A1 AND PORTION OF TWY P BTN\r\nTWY A1 AND TWY P1 NOT AVBL",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A2074/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "07/01/2026 0741",
+   "startDate": "07/06/2026 0830",
+   "endDate": "08/17/2026 1030",
+   "icaoMessage": "A2074/26 NOTAMN\r\nQ) VOMF/QMXLC/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607060830 C) 2608171030\r\nD) MON 0830-1030\r\nE) TWY A AND PORTION OF TWY Q BTN TWY A1 AND TWY P1 NOT AVBL",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A1593/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "05/12/2026 0519",
+   "startDate": "05/12/2026 0530",
+   "endDate": "08/11/2026 1230",
+   "icaoMessage": "A1593/26 NOTAMN\r\nQ) VOMF/QMXXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2605120530 C) 2608111230\r\nE) CONST WIP SOUTH OF TWY A BTN TWY B6-K AND TWY K-B4.\r\nFOR CODE F ACFT OPS REQUIRED ADDN AREA WILL BE\r\nCLEARED WITH 30 MIN PRIOR NOTICE. PILOTS EXER CTN",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A1430/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "04/29/2026 0930",
+   "startDate": "05/04/2026 0830",
+   "endDate": "08/04/2026 1030",
+   "icaoMessage": "A1430/26 NOTAMN\r\nQ) VOMF/QMRLC/IV/NBO/A/000/999/1312N07742E005\r\nA) VOBL B) 2605040830 C) 2608041030\r\nD) MON 0830-1030 1900-2100\r\nTUE 0830-1030\r\nE) NORTH RWY09L/27R NOT AVBL DUE MAINT",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A1427/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "04/29/2026 0815",
+   "startDate": "04/29/2026 0130",
+   "endDate": "07/29/2026 2330",
+   "icaoMessage": "A1427/26 NOTAMR A0352/26\r\nQ) VOMF/QFAHX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2604290130 C) 2607292330\r\nD) 0130-2330\r\nE) MIGRATORY BIRD ACT ON NORTH RWY 09L/27R AND \r\nSOUTH RWY 09R/27L BTN 10FT TO 500FT AGL.\r\nPILOTS TO EXER CTN.",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A1370/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "04/22/2026 0806",
+   "startDate": "04/22/2026 0805",
+   "endDate": "07/21/2026 2359",
+   "icaoMessage": "A1370/26 NOTAMR A0245/26\r\nQ) VOMF/QMPXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2604220805 C) 2607212359\r\nE) ACFT STAND MANOEUVRING GUIDANCE LIGHTS ON STAND\r\n87,89,91,93,95,97,99,101,103 AND 105 NOT AVBL.",
+   "traditionalMessage": ""
+  }
+ ]
 }
