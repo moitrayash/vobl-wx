@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-17T10:15:46.928Z",
+ "generatedAt": "2026-07-17T11:42:19.696Z",
  "station": "VOBL",
- "metar": "METAR VOBL 171000Z 27012KT 8000 SCT012 SCT018 29/17 Q1012 NOSIG",
+ "metar": "METAR VOBL 171130Z 25014KT 8000 SCT012 SCT018 25/18 Q1013 NOSIG",
  "notams": [
   {
    "notamNumber": "A1603/26",
@@ -211,6 +211,16 @@
    "startDate": "04/22/2026 0805",
    "endDate": "07/21/2026 2359",
    "icaoMessage": "A1370/26 NOTAMR A0245/26\r\nQ) VOMF/QMPXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2604220805 C) 2607212359\r\nE) ACFT STAND MANOEUVRING GUIDANCE LIGHTS ON STAND\r\n87,89,91,93,95,97,99,101,103 AND 105 NOT AVBL.",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A2217/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "07/17/2026 1123",
+   "startDate": "07/18/2026 0730",
+   "endDate": "07/18/2026 0930",
+   "icaoMessage": "A2217/26 NOTAMN\r\nQ) VOMF/QMXLC/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607180730 C) 2607180930\r\nE) TWY B2 AND PORTION OF TWY B BTN TWY B1 AND TWY B2 NOT AVBL",
    "traditionalMessage": ""
   }
  ]
