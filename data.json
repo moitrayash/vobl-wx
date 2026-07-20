@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-20T07:46:22.305Z",
+ "generatedAt": "2026-07-20T10:31:55.271Z",
  "station": "VOBL",
- "metar": "METAR VOBL 200730Z 26015KT 9999 SCT012 SCT018 29/18 Q1013 NOSIG",
+ "metar": "METAR VOBL 201000Z COR 29016KT 9999 SCT012 SCT018 30/17 Q1012 NOSIG",
  "notams": [
   {
    "notamNumber": "A1603/26",
@@ -144,26 +144,6 @@
    "traditionalMessage": ""
   },
   {
-   "notamNumber": "A2072/26",
-   "facilityDesignator": "VOBL",
-   "featureName": "International",
-   "issueDate": "07/01/2026 0639",
-   "startDate": "07/08/2026 0530",
-   "endDate": "08/19/2026 1030",
-   "icaoMessage": "A2072/26 NOTAMN\r\nQ) VOMF/QMRLC/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607080530 C) 2608191030\r\nD) WED 0530-1030\r\nE) SOUTH RWY 09R/27L NOT AVBL DUE SKED MAINT",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A2073/26",
-   "facilityDesignator": "VOBL",
-   "featureName": "International",
-   "issueDate": "07/01/2026 0646",
-   "startDate": "07/08/2026 0530",
-   "endDate": "08/19/2026 1030",
-   "icaoMessage": "A2073/26 NOTAMN\r\nQ) VOMF/QMXLC/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607080530 C) 2608191030\r\nD) WED 0530-1030\r\nE) TWY G, TWY H AND PORTION OF TWY P AND TWY Q BTN TWY N2 \r\nAND TWY H NOT AVBL DUE MAINT",
-   "traditionalMessage": ""
-  },
-  {
    "notamNumber": "A2075/26",
    "facilityDesignator": "VOBL",
    "featureName": "International",
@@ -211,6 +191,36 @@
    "startDate": "04/29/2026 0130",
    "endDate": "07/29/2026 2330",
    "icaoMessage": "A1427/26 NOTAMR A0352/26\r\nQ) VOMF/QFAHX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2604290130 C) 2607292330\r\nD) 0130-2330\r\nE) MIGRATORY BIRD ACT ON NORTH RWY 09L/27R AND \r\nSOUTH RWY 09R/27L BTN 10FT TO 500FT AGL.\r\nPILOTS TO EXER CTN.",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A2242/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "07/20/2026 0916",
+   "startDate": "07/25/2026 0500",
+   "endDate": "07/25/2026 0800",
+   "icaoMessage": "A2242/26 NOTAMN\r\nQ) VOMF/QFAXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607250500 C) 2607250800\r\nE) ALL ACFT TO CARRY ADDN FUEL TO CATER\r\nFOR DLA DUE SOUTH RWY27L ILS CLBR.",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A2240/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "07/20/2026 0905",
+   "startDate": "07/23/2026 0530",
+   "endDate": "07/23/2026 1030",
+   "icaoMessage": "A2240/26 NOTAMN\r\nQ) VOMF/QMRLC/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607230530 C) 2607231030\r\nE) SOUTH RWY 09R/27L NOT AVBL DUE SKED MAINT",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A2243/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "07/20/2026 0944",
+   "startDate": "07/23/2026 0530",
+   "endDate": "07/23/2026 1030",
+   "icaoMessage": "A2243/26 NOTAMN\r\nQ) VOMF/QMXLC/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607230530 C) 2607231030\r\nE) TWY G, TWY H AND PORTION OF TWY P AND TWY Q BTN TWY N2 \r\nAND TWY H NOT AVBL DUE MAINT",
    "traditionalMessage": ""
   },
   {
