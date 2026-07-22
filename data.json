@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-22T07:08:46.113Z",
+ "generatedAt": "2026-07-22T09:36:26.674Z",
  "station": "VOBL",
- "metar": "METAR VOBL 220700Z 26015KT 9999 SCT012 BKN080 27/18 Q1014 NOSIG",
+ "metar": "METAR VOBL 220930Z 24015KT 9999 SCT012 SCT080 27/19 Q1013 NOSIG",
  "notams": [
   {
    "notamNumber": "A1603/26",
@@ -221,26 +221,6 @@
    "startDate": "07/23/2026 0530",
    "endDate": "07/23/2026 1030",
    "icaoMessage": "A2243/26 NOTAMN\r\nQ) VOMF/QMXLC/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607230530 C) 2607231030\r\nE) TWY G, TWY H AND PORTION OF TWY P AND TWY Q BTN TWY N2 \r\nAND TWY H NOT AVBL DUE MAINT",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A2236/26",
-   "facilityDesignator": "VOBL",
-   "featureName": "International",
-   "issueDate": "07/20/2026 0710",
-   "startDate": "07/22/2026 0500",
-   "endDate": "07/22/2026 0800",
-   "icaoMessage": "A2236/26 NOTAMN\r\nQ) VOMF/QFAXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607220500 C) 2607220800\r\nE) ALL ACFT TO CARRY ADDN FUEL TO CATER\r\nFOR DLA DUE SOUTH RWY09R ILS CLBR.",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A2237/26",
-   "facilityDesignator": "VOBL",
-   "featureName": "International",
-   "issueDate": "07/20/2026 0741",
-   "startDate": "07/22/2026 0500",
-   "endDate": "07/22/2026 0800",
-   "icaoMessage": "A2237/26 NOTAMN\r\nQ) VOMF/QICCT/I/NBO/A/000/999/1311N07744E025\r\nA) VOBL B) 2607220500 C) 2607220800\r\nE) ILS RWY09R FREQ 109.9MHZ IDENT &apos;IBLN&apos; WILL\r\nBE RADIATING FOR FLT CLBR. DO NOT USE.\r\nFALSE INDICATION POSS DURING CLBR.",
    "traditionalMessage": ""
   }
  ]
