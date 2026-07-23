@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-23T04:26:49.996Z",
+ "generatedAt": "2026-07-23T07:03:51.582Z",
  "station": "VOBL",
- "metar": "METAR VOBL 230400Z 25015KT 8000 FEW010 SCT012 25/19 Q1014 NOSIG",
+ "metar": "METAR VOBL 230630Z 25018KT 9999 SCT012 SCT018 28/17 Q1013 NOSIG",
  "notams": [
   {
    "notamNumber": "A1603/26",
@@ -201,6 +201,16 @@
    "startDate": "07/25/2026 0500",
    "endDate": "07/25/2026 0800",
    "icaoMessage": "A2242/26 NOTAMN\r\nQ) VOMF/QFAXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607250500 C) 2607250800\r\nE) ALL ACFT TO CARRY ADDN FUEL TO CATER\r\nFOR DLA DUE SOUTH RWY27L ILS CLBR.",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A2295/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "07/23/2026 0644",
+   "startDate": "07/25/2026 0500",
+   "endDate": "07/25/2026 0800",
+   "icaoMessage": "A2295/26 NOTAMN\r\nQ) VOMF/QICCT/I/NBO/A/000/999/1311N07744E025\r\nA) VOBL B) 2607250500 C) 2607250800\r\nE) ILS RWY27L IDVN 111.500MHZ WILL\r\nBE RADIATING FOR FLT CLBR. DO NOT USE.\r\nFALSE INDICATION POSS",
    "traditionalMessage": ""
   },
   {
