@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-23T11:27:54.602Z",
+ "generatedAt": "2026-07-23T12:58:17.389Z",
  "station": "VOBL",
- "metar": "METAR VOBL 231100Z 27012KT 9999 SCT012 SCT080 29/16 Q1011 NOSIG",
+ "metar": "METAR VOBL 231230Z 27012KT 8000 SCT012 BKN080 28/15 Q1012 NOSIG",
  "notams": [
   {
    "notamNumber": "A1603/26",
@@ -211,16 +211,6 @@
    "startDate": "07/25/2026 0500",
    "endDate": "07/25/2026 0800",
    "icaoMessage": "A2295/26 NOTAMN\r\nQ) VOMF/QICCT/I/NBO/A/000/999/1311N07744E025\r\nA) VOBL B) 2607250500 C) 2607250800\r\nE) ILS RWY27L IDVN 111.500MHZ WILL\r\nBE RADIATING FOR FLT CLBR. DO NOT USE.\r\nFALSE INDICATION POSS",
-   "traditionalMessage": ""
-  },
-  {
-   "notamNumber": "A2298/26",
-   "facilityDesignator": "VOBL",
-   "featureName": "International",
-   "issueDate": "07/23/2026 0844",
-   "startDate": "07/23/2026 0844",
-   "endDate": "07/23/2026 1230",
-   "icaoMessage": "A2298/26 NOTAMR A2240/26\r\nQ) VOMF/QMRLC/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607230844 C) 2607231230\r\nE) SOUTH RWY 09R/27L NOT AVBL DUE SKED MAINT",
    "traditionalMessage": ""
   }
  ]
