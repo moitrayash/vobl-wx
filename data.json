@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-07-24T06:44:30.921Z",
+ "generatedAt": "2026-07-24T09:10:21.432Z",
  "station": "VOBL",
- "metar": "METAR VOBL 240630Z 27015KT 9999 SCT012 SCT018 27/19 Q1013 NOSIG",
+ "metar": "METAR VOBL 240900Z 27012KT 8000 SCT012 SCT018 29/17 Q1012 NOSIG",
  "notams": [
   {
    "notamNumber": "A1603/26",
@@ -141,6 +141,26 @@
    "startDate": "05/25/2026 0555",
    "endDate": "08/26/2026 2359",
    "icaoMessage": "A1717/26 NOTAMR A0721/26\r\nQ) VOMF/QMXXX/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2605250555 C) 2608262359\r\nE) INTERMEDIATE HLDG PSN LIGHTS ON TWY B1, TWY M, TWY N SHORT OF\r\nTXL C AND ON TWY N1 SHORT OF TXL N WILL BE SWITCHED ON FOR \r\nTESTING.PILOTS TO EXER CTN",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A2303/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "07/24/2026 0819",
+   "startDate": "07/29/2026 0530",
+   "endDate": "08/19/2026 1030",
+   "icaoMessage": "A2303/26 NOTAMN\r\nQ) VOMF/QMXLC/IV/BO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607290530 C) 2608191030\r\nD) WED 0530-1030\r\nE) TWY G, TWY H AND PORTION OF TWY P AND TWY Q BTN TWY D \r\nAND TWY H NOT AVBL DUE MAINT",
+   "traditionalMessage": ""
+  },
+  {
+   "notamNumber": "A2304/26",
+   "facilityDesignator": "VOBL",
+   "featureName": "International",
+   "issueDate": "07/24/2026 0821",
+   "startDate": "07/29/2026 0530",
+   "endDate": "08/19/2026 1030",
+   "icaoMessage": "A2304/26 NOTAMN\r\nQ) VOMF/QMRLC/IV/NBO/A/000/999/1312N07742E005\r\nA) VOBL B) 2607290530 C) 2608191030\r\nD) WED 0530-1030\r\nE) SOUTH RWY09R/27L NOT AVBL DUE MAINT",
    "traditionalMessage": ""
   },
   {
