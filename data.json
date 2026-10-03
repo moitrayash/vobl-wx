@@ -1,8 +1,7 @@
 {
- "generatedAt": "2026-10-03T12:13:32.457Z",
+ "generatedAt": "2026-10-03T12:14:04.321Z",
  "station": "VOBL",
- "metar": "",
- "metarError": "TypeError: fetch failed",
+ "metar": "METAR VOBL 031200Z 11005KT 8000 SCT012 28/17 Q1017 NOSIG",
  "notams": [],
  "notamError": "Error: NOTAM HTTP 403"
 }
